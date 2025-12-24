@@ -1,6 +1,6 @@
 # 👋 Hi, I'm an Automation Engineer in the Making
 
-I build **automation systems** using **Python, APIs, and workflow tools** to reduce manual work and solve real-world problems.
+I build **automation systems** using **Python,JavaScript,APIs, and workflow tools** to reduce manual work and solve real-world problems.
 
 ---
 
@@ -25,8 +25,8 @@ I build **automation systems** using **Python, APIs, and workflow tools** to red
 - API Integration
 
 **Workflow Tools**
-- n8n
-- GitHub
+- n8n          - Airtable     
+- GitHub       - OpenAI
 
 **Data Handling**
 - Web Scraping
@@ -69,5 +69,5 @@ I believe in **learning by building practical systems**, not just tutorials.
 
 ---
 
-⭐ *Open to internships, entry-level roles, and automation-focused opportunities*
+⭐ *Open to internships, entry-level roles, and automation-focused opportunities as well as FreeLance*
 
