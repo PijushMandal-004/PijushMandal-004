@@ -18,6 +18,7 @@ I build **automation systems** using **Python,JavaScript,APIs, and workflow tool
 
 **Languages & Scripting**
 - Python (requests, BeautifulSoup, JSON)
+- JavaScript
 
 **Automation & APIs**
 - REST APIs
