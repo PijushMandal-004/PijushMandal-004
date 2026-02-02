@@ -65,8 +65,8 @@ I believe in **learning by building practical systems**, not just tutorials.
 
 - 🌐 Portfolio: https://pijushmandal-004.github.io/.github.io/
 - 💻 GitHub: https://github.com/PijushMandal-004 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- ✉️ Email: your@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/pijush-mandal004 
+- ✉️ Email: pijushmandal734@gmail.com
 
 ---
 
