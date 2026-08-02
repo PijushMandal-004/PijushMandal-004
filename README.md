@@ -1,4 +1,4 @@
-# 👋 Hi, I'm an Automation Workflow Developer
+# 👋 Hi, I'm an Automation Workflow Developer,
 
 I build **automation systems** using **Python,JavaScript,APIs, and workflow tools** to reduce manual work and solve real-world problems.
 
@@ -6,7 +6,7 @@ I build **automation systems** using **Python,JavaScript,APIs, and workflow tool
 
 ## 🚀 What I Do
 
-- 🤖 Build automation scripts using Python  
+- 🤖 Build automation scripts using Python,javascript 
 - 🔗 Integrate and consume REST APIs  
 - 🕸️ Scrape and structure data from the web  
 - 🔄 Create automated workflows using n8n  
@@ -17,7 +17,7 @@ I build **automation systems** using **Python,JavaScript,APIs, and workflow tool
 ## 🛠️ Tech Stack
 
 **Languages & Scripting**
-- Python (requests, BeautifulSoup, JSON)
+- Python 
 - JavaScript
 
 **Automation & APIs**
