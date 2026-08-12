@@ -1,12 +1,14 @@
-# 👋 Hi, I'm an Automation Workflow Developer,
+# 👋 Hi, I'm Pijush Mandal,
 
-I build **automation systems** using **Python,JavaScript,APIs, and workflow tools** to reduce manual work and solve real-world problems.
+**QA Automation Engineer | Playwright • TypeScript • Web3 • AI Automation**
+
 
 ---
 
 ## 🚀 What I Do
 
-- 🤖 Build automation scripts using Python,javascript 
+I build scalable testing frameworks that catch bugs before production. I specialize in modern automation stacks (Playwright/TS) and bridge the gap between traditional QA and the decentralized web (Web3 Security).
+- 
 - 🔗 Integrate and consume REST APIs  
 - 🕸️ Scrape and structure data from the web  
 - 🔄 Create automated workflows using n8n  
@@ -17,17 +19,23 @@ I build **automation systems** using **Python,JavaScript,APIs, and workflow tool
 ## 🛠️ Tech Stack
 
 **Languages & Scripting**
-- Python 
 - JavaScript
+- TypeScript
+-  Python (Basics)
+
 
 **Automation & APIs**
+- Playwright
+- TypeScript
 - REST APIs
+- Postman
 - Webhooks
 - API Integration
 
 **Workflow Tools**
 - n8n          - Airtable     
 - GitHub       - OpenAI
+- SQL
 
 **Data Handling**
 - Web Scraping
@@ -53,11 +61,13 @@ Built automated pipelines using HTTP requests, filters, and Google Sheets integr
 
 ## 📈 Learning Focus
 
-- Workflow-based problem solving  
-- Real-world API use cases  
+## 📈 Recent Activity
+- 🔭 Building a **Web3 Security Testing** suite for DeFi protocols.
+- 🌱 Learning **n8n** to automate QA reporting workflows.
+- 💬 Ask me about **Playwright Locators** or **Smart Contract Testing**.
 
 
-I believe in **learning by building practical systems**, not just tutorials.
+I believe in **learning by building practical systems**, not just by Watching tutorials.
 
 ---
 
