@@ -59,7 +59,6 @@ Built automated pipelines using HTTP requests, filters, and Google Sheets integr
 
 ---
 
-## 📈 Learning Focus
 
 ## 📈 Recent Activity
 - 🔭 Building a **Web3 Security Testing** suite for DeFi protocols.
